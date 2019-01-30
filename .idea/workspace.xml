@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f544c6e7-db7d-41af-961c-59ab67dd375c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/AccountsHelper.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-25">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/AccountBalances.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+              <folding>
+                <element signature="e#50#172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/BalanceList.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <element signature="e#50#151#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/Balance.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+              <folding>
+                <element signature="e#50#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/Amount.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <element signature="e#50#263#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/currencies/Currency.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>code.style</find>
+      <find>formatter</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/currencies</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/Hello.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/sob/SwedbankOpenBanking.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/credentials/Credentials.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/SwedbankOpenBanking.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/credentials/OauthCredentials.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/exceptions/OauthException.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/accounts/AccountsHelper.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/banks/SwedbankBic.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/api/ApiHelper.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/oauth/OauthHelper.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/consents/ConsentsHelper.kt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/consents/ConsentAccess.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/consents/CreateConsentRequest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/exceptions/ConsentsException.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/SwedbankOpenBankingApi.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/exceptions/AccountsException.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/dproductions/OauthHelperTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/consents/Consent.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/credentials/OauthCredentials.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/Account.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/AccountType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/OauthHelper.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/ConsentsHelper.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/ApiHelper.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/AccountBalances.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/BalanceList.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/AccountsHelper.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/currencies/Currency.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/Amount.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/Balance.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.dproductions sob" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.dproductions sob" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sob" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sob" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sob" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sob" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SwedbankOpenBanking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SwedbankOpenBanking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sob" type="462c0819:PsiDirectoryNode" />
+              <item name="structures" type="462c0819:PsiDirectoryNode" />
+              <item name="consents" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.dproductions.sob.helpers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OauthHelperTest.testGetToken">
+    <configuration name="OauthHelperTest.testGetAuthenticationUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SwedbankOpenBanking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dproductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dproductions" />
+      <option name="MAIN_CLASS_NAME" value="com.dproductions.OauthHelperTest" />
+      <option name="METHOD_NAME" value="testGetAuthenticationUrl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthHelperTest.testGetRedirectUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SwedbankOpenBanking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dproductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dproductions" />
+      <option name="MAIN_CLASS_NAME" value="com.dproductions.OauthHelperTest" />
+      <option name="METHOD_NAME" value="testGetRedirectUrl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthHelperTest.testGetToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SwedbankOpenBanking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dproductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dproductions" />
+      <option name="MAIN_CLASS_NAME" value="com.dproductions.OauthHelperTest" />
+      <option name="METHOD_NAME" value="testGetToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.dproductions.HelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="SwedbankOpenBanking" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.dproductions.HelloKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OauthHelperTest.testGetToken" />
+        <item itemvalue="JUnit.OauthHelperTest.testGetAuthenticationUrl" />
+        <item itemvalue="JUnit.OauthHelperTest.testGetRedirectUrl" />
+        <item itemvalue="Kotlin.com.dproductions.HelloKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f544c6e7-db7d-41af-961c-59ab67dd375c" name="Default Changelist" comment="" />
+      <created>1548661643712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548661643712</updated>
+      <workItem from="1548661644916" duration="1930000" />
+      <workItem from="1548664943275" duration="1111000" />
+      <workItem from="1548667600076" duration="43000" />
+      <workItem from="1548667705092" duration="6245000" />
+      <workItem from="1548685795860" duration="9562000" />
+      <workItem from="1548835900805" duration="11766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OauthHelperTest_testGetRedirectUrl - 2019.01.28 at 15h 06m 05s.xml">
+      <configuration name="OauthHelperTest.testGetRedirectUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetRedirectUrl - 2019.01.28 at 15h 10m 36s.xml">
+      <configuration name="OauthHelperTest.testGetRedirectUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetRedirectUrl - 2019.01.28 at 15h 10m 44s.xml">
+      <configuration name="OauthHelperTest.testGetRedirectUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetRedirectUrl - 2019.01.28 at 15h 12m 37s.xml">
+      <configuration name="OauthHelperTest.testGetRedirectUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetRedirectUrl - 2019.01.28 at 15h 13m 00s.xml">
+      <configuration name="OauthHelperTest.testGetRedirectUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetAuthenticationUrl - 2019.01.28 at 16h 35m 59s.xml">
+      <configuration name="OauthHelperTest.testGetAuthenticationUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetAuthenticationUrl - 2019.01.28 at 16h 37m 12s.xml">
+      <configuration name="OauthHelperTest.testGetAuthenticationUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetToken - 2019.01.28 at 17h 12m 29s.xml">
+      <configuration name="OauthHelperTest.testGetToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetToken - 2019.01.28 at 17h 14m 14s.xml">
+      <configuration name="OauthHelperTest.testGetToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OauthHelperTest_testGetToken - 2019.01.28 at 17h 21m 40s.xml">
+      <configuration name="OauthHelperTest.testGetToken" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30657000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33503184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32953367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.15164521" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SwedbankOpenBanking.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/kittinunf/fuel/fuel/1.12.1/fuel-1.12.1.jar!/com/github/kittinunf/fuel/FuelKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core/0.23.3/kotlinx-coroutines-core-0.23.3.jar!/kotlinx/coroutines/experimental/BuildersKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/kittinunf/fuel/fuel-coroutines/1.15.0/fuel-coroutines-1.15.0.jar!/CoroutinesKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/Hello.kt" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/kittinunf/fuel/fuel/2.0.1/fuel-2.0.1.jar!/com/github/kittinunf/fuel/core/BubbleFuelError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/credentials/ApiCredentials.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/banks/SwedbankBic.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/kittinunf/fuel/fuel/2.0.1/fuel-2.0.1.jar!/com/github/kittinunf/fuel/FuelKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar!/org/joda/time/format/DateTimeFormat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="444" column="36" lean-forward="true" selection-start-line="444" selection-start-column="36" selection-end-line="444" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="81" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/consents/ConsentAccess.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/exceptions/OauthException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/exceptions/ConsentsException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/kittinunf/fuel/fuel-coroutines/2.0.1/fuel-coroutines-2.0.1.jar!/com/github/kittinunf/fuel/coroutines/CoroutinesKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/exceptions/AccountsException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/credentials/OauthCredentials.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/dproductions/OauthHelperTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/OauthHelper.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#38#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/ApiHelper.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="e#38#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/SwedbankOpenBankingApi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#30#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/AccountType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#50#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/Amount.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#50#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/AccountsHelper.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/helpers/ConsentsHelper.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="e#38#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/Account.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/consents/Consent.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#50#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/consents/CreateConsentRequest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/currencies/Currency.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/Balance.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+          <folding>
+            <element signature="e#50#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/AccountBalances.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+          <folding>
+            <element signature="e#50#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/dproductions/sob/structures/accounts/BalanceList.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="e#50#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
